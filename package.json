@@ -1,0 +1,30 @@
+{
+  "name": "icon1r",
+  "version": "1.0.0",
+  "description": "test purpose only",
+  "main": "index.js",
+  "scripts": {
+    "test": "fantasticon icon-source -o icon-dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrunalsen/icon1r.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mrunal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrunalsen/icon1r/issues"
+  },
+  "homepage": "https://github.com/mrunalsen/icon1r#readme",
+  "dependencies": {
+    "fantasticon": "1.2.2"
+  },
+  "overrides": {
+    "fantasticon": {
+      "glob": "7.2.0"
+    }
+  }
+}
