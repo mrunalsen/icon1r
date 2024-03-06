@@ -4,7 +4,9 @@
   "description": "test purpose only",
   "main": "index.js",
   "scripts": {
-    "test": "fantasticon icon-source -o icon-dist"
+    "fetch": "node fetchIcons.js",
+    "build": "fantasticon icon-source -o icon-dist",
+    "icon-error": "fantasticon icon-error -o icon-error-dist"
   },
   "repository": {
     "type": "git",
@@ -20,7 +22,9 @@
   },
   "homepage": "https://github.com/mrunalsen/icon1r#readme",
   "dependencies": {
-    "fantasticon": "1.2.2"
+    "axios": "^1.6.7",
+    "fantasticon": "1.2.2",
+    "json-server": "^1.0.0-alpha.23"
   },
   "overrides": {
     "fantasticon": {

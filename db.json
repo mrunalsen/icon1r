@@ -1,0 +1,14 @@
+{
+    "icons": [
+        {
+            "id": 1,
+            "name": "drive",
+            "svg": "<?xml version=\"1.0\" ?><svg viewBox=\"0 0 32 32\" height=\"512px\" width=\"512px\" xmlns=\"http://www.w3.org/2000/svg\"><title/><g data-name=\"drive gdrive google storage\" id=\"drive_gdrive_google_storage\"><path d=\"M29,19.26a1,1,0,0,0,0-.34s0-.05,0-.08a.94.94,0,0,0-.11-.32v0l-8-14A1,1,0,0,0,20,4H12a1,1,0,0,0-.86.5,1,1,0,0,0,0,1L14.85,12,8,24,5.15,19l5.38-9.41a1,1,0,0,0-1.74-1L3.13,18.5a1,1,0,0,0,0,1l4,7,.16,.21h0a1,1,0,0,0,.27.19l.08,0A1,1,0,0,0,8,27H24a1,1,0,0,0,.87-.5l4-7a1,1,0,0,0,.09-.22ZM19.42,6l6.86,12h-5.7L13.72,6ZM18.28,18H13.72L16,14Zm5.14,7H9.72l2.86-5h13.7Z\"/></g></svg>"
+        },
+        {
+            "id": 2,
+            "name": "email",
+            "svg": "<?xml version=\"1.0\" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg  id=\"Layer_1\" style=\"enable-background:new 0 0 512 512;\" version=\"1.1\" viewBox=\"0 0 512 512\" height=\"512px\" width=\"512px\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M64,128v256h384V128H64z M256,267.9L93.2,144h325.6L256,267.9z M80,368V154.1l115.1,87.6L127,319l2,2l78.9-69.6L256,288  l48.1-36.6L383,321l2-2l-68.1-77.4L432,154.1V368H80z\"/></svg>"
+        }
+    ]
+}
